@@ -80,8 +80,7 @@ private RestHighLevelClient client;
         //解析亲求
         String source = fields.getSourceAsString();
         System.out.println(source);
-
-        System.out.println("我爱你");
+        System.out.println("大家好这里是合并完成后的代码");
     }
     @Test
     public void test3() throws IOException {
