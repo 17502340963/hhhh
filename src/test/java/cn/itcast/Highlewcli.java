@@ -80,7 +80,7 @@ private RestHighLevelClient client;
         //解析亲求
         String source = fields.getSourceAsString();
         System.out.println(source);
-        System.out.println("大家好这里是主分支分支");
+        System.out.println("我终于搞明白了");
     }
     @Test
     public void test3() throws IOException {
