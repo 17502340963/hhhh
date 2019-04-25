@@ -20,7 +20,7 @@ public class Goods {
     private Double price; // 价格
     @Field(type = FieldType.Keyword,index = false)
     private String images; // 图片地址
-    int a = 10;
+
     public Goods() {
     }
        

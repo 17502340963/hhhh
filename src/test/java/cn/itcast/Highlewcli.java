@@ -80,6 +80,8 @@ private RestHighLevelClient client;
         //解析亲求
         String source = fields.getSourceAsString();
         System.out.println(source);
+
+        System.out.println("我爱你");
     }
     @Test
     public void test3() throws IOException {
